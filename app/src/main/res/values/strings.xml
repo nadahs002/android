@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_drivers_map">DriversMapActivity</string>
+    <string name="title_activity_drivermap">drivermap</string>
+</resources>
